@@ -2081,7 +2081,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Read 31 blockchains over JSON-RPC and get DEX swap quotes with unsigned transactions via Chord.
 - [Moneda](https://moneda.com/developers) `https://mcp.moneda.com/api/mcp`
   [![Moneda MCP connector](https://glama.ai/mcp/connectors/com.moneda/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moneda/mcp)
-  🔐 - Research stocks, ETFs and crypto, read balances and transactions, and propose payments you approve in the app.
+  🔓 - Help and research content without sign-in; OAuth adds your balances, transactions and payments you approve in the app.
 - [Money Reactor](https://money-reactor.makar52nn2016.workers.dev/) `https://money-reactor.makar52nn2016.workers.dev/mcp`
   [![Money Reactor MCP connector](https://glama.ai/mcp/connectors/io.github.makar52nn-crypto/x402-money-reactor/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.makar52nn-crypto/x402-money-reactor)
   🔓 - Pay-per-call x402 API on Base: token verdicts, research dossiers, crypto prices, weather, AI chat; USDC.
